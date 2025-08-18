@@ -1,16 +1,14 @@
-## Hi there 👋
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/d96cb179-90a3-45ba-b9fc-e14f9c9170d8" />
 
-<!--
-**marinascomplex/marinascomplex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando JavaScript
+- 📫Contate-me no e-mail: marinaasillva96@gmail.com
+- 😄 Pronouns: Ela/Dela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+## Meus interesses de estudo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 50px; height: 50px;" /> <img src="https://cdn.jsdelivr.ly/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 50px; height: 50px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width: 50px; height: 50px;" /> 
