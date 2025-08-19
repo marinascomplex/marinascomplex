@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando JavaScript
+- 🌱 Estudando HTML
 - 📫Contate-me no e-mail: marinaasillva96@gmail.com
 - 😄 Pronouns: Ela/Dela
 
